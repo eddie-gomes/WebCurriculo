@@ -1,0 +1,24 @@
+.containerCompetencias h1{  
+  background-color: #4762A8;
+  height: 10%;
+  color: #FFFFFF;
+  font-size: 18pt;
+  padding: 2%;
+}
+
+.containerCompetencias h2{
+  color: #4762A8;
+  font-size: 18pt;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.containerCompetencias button{
+  outline: none;
+  background-color: #4762A8;
+  color: #FFFFFF;
+  font-size: 18pt;
+  border-radius: 50px;
+  padding: 1%;
+  margin-left: 5%;
+}

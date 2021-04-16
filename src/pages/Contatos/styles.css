@@ -1,0 +1,30 @@
+.containerContatos h1{  
+  background-color: #4762A8;
+  height: 10%;
+  color: #FFFFFF;
+  font-size: 18pt;
+  padding: 2%;
+}
+
+.containerContatos h2{
+  color: #4762A8;
+  font-size: 18pt;
+  margin-left: 15%;
+  padding: 2%;
+  
+}
+.containerContatos button{
+  outline: none;
+  background-color: #4762A8;
+  color: #FFFFFF;
+  font-size: 18pt;
+  border-radius: 50px;
+  padding: 1%;
+  margin-left: 5%;
+}
+.containerContatos img{
+  width: 50px;
+}
+.containerList div{
+  display:inline;
+}
