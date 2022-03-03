@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a9b8828.chunk.css",
+    "main.js": "/static/js/main.e8e38c80.chunk.js",
+    "main.js.map": "/static/js/main.e8e38c80.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecd7ef83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecd7ef83.js.map",
+    "static/js/2.5169a38d.chunk.js": "/static/js/2.5169a38d.chunk.js",
+    "static/js/2.5169a38d.chunk.js.map": "/static/js/2.5169a38d.chunk.js.map",
+    "static/js/3.c65dc2df.chunk.js": "/static/js/3.c65dc2df.chunk.js",
+    "static/js/3.c65dc2df.chunk.js.map": "/static/js/3.c65dc2df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4a9b8828.chunk.css.map": "/static/css/main.4a9b8828.chunk.css.map",
+    "static/js/2.5169a38d.chunk.js.LICENSE.txt": "/static/js/2.5169a38d.chunk.js.LICENSE.txt",
+    "static/media/email.34365e46.png": "/static/media/email.34365e46.png",
+    "static/media/fotoperfil.868210d0.jpeg": "/static/media/fotoperfil.868210d0.jpeg",
+    "static/media/fotoperfilquadrada.a747b6da.jpeg": "/static/media/fotoperfilquadrada.a747b6da.jpeg",
+    "static/media/telegram.556edf90.png": "/static/media/telegram.556edf90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd7ef83.js",
+    "static/js/2.5169a38d.chunk.js",
+    "static/css/main.4a9b8828.chunk.css",
+    "static/js/main.e8e38c80.chunk.js"
+  ]
+}
