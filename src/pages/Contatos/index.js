@@ -21,7 +21,7 @@ export default function Contatos() {
           <blockquote />
           Git hub: @eddie-gomes
           <br />
-          <blockquote />ttps://github.com/eddie-gomes
+          <blockquote />https://github.com/eddie-gomes
         </h2>
       </div>
       <div className='containerList'>
